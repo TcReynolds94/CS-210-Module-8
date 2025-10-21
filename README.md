@@ -1,12 +1,15 @@
 # CS-210-Module-8
 
 //Project Summary//
+
 In this project, I wanted C++ and Python to have seperate roles. I wanted C++ to handle everything on the frontend, such as
 displaying the menu and interactng with users. I wanted Python to handled everything on the backend, such reading the data 
 from the input data, proccessing the data and making it available for C++ to call based on user input, and 
 then writing the data to an output file.
 
+
 //Questions//
+
 // What did you do particularly well?
   - I tried to make this as clean as possible. By having C++ and Python handle their own individual functions and then communicate
     with each other when needed, it makes the code easy to read and understand.
